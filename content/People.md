@@ -3,7 +3,7 @@
 On our journey to Paraná, we are joined by Brazilian native, Tatiana (\[tɑt͡ʃɪɑnɑ]). With her help, we will seek to better understand the people, culture, and especially the language of Paraná in order to help us to identify features of the local accent and build a profile that will ultimately assist the actor in recreating the accent in their work. Along the way, we will explore everything from music to food, to festivals and religion, and even immigration and colonization, ultimately painting a picture of how these factors have influenced and shaped the spoken language into what can be heard today. 
 ### Where in the world is Paraná?
 
-Paraná is located in the southern hemisphere, on the South American continent within the country of Brazil. More specifically, it is located in Southern Brazil and shares borders with São Paulo, Santa Catarina, and the countries of Paraguay and Chile. The population as of the 2022 census estimated a total of 11,444,380 people, with more than 10 million people living in an urban setting.[^1] The capital city Curitaba (\[kʊ.ɹɪ.t͡ʃɪ.bɑ], sometimes called Brazil’s ‘green’ city is known for its excellent mass transit and urban planning. Brazil is home to a rich and diverse cultural tapestry, with inhabitants claiming Polish, Italian, Jewish, and Japanese heritage.[^4] In fact, Brazil is home to the largest Japanese population outside of Japan at over two million Japanese descendants.[^5] 
+Paraná is located in the southern hemisphere, on the South American continent within the country of Brazil. More specifically, it is located in Southern Brazil and shares borders with São Paulo, Santa Catarina, and the countries of Paraguay and Chile. The population as of the 2022 census estimated a total of 11,444,380 people, with more than 10 million people living in an urban setting.[^1] The capital city Curitaba (\[kʊ.ɹɪ.t͡ʃɪ.bɑ], sometimes called Brazil’s ‘green’ city is known for its excellent mass transit and urban planning. Brazil is home to a rich and diverse cultural tapestry, with inhabitants claiming Polish, Italian, Jewish, and Japanese heritage.[^2] In fact, Brazil is home to the largest Japanese population outside of Japan at over two million Japanese descendants.[^3] 
 
 > [!info] Tatiana describing her Ethnicity.
 > ![[Tatiana_Ethnicity.wav]]
@@ -14,15 +14,15 @@ Paraná is located in the southern hemisphere, on the South American continent w
 ### Language and Culture
 
 #### Colonization and Language Change
-Today, Brazilian Portuguese is recognized as the official language across all of Brazil. This was not always the case. When the Portuguese first landed on the Atlantic coast in the early 1500s, somewhere around modern day São Paulo, they were greeted by one of the nearly 200 indigenous tribes who inhabited the continent at the time. These locals spoke a variety of Tupí, which is but one of the 150 languages that are estimated to exist across Brazil.[^2] Tupí became the general language ( *Língua Geral* ) and was learned by the Portuguese colonizers as well as the African slaves they brought with them. Throughout the course of the next four centuries, Portugal's power in the region increased drastically. The rise of sugar cultivation and the discovery of large gold deposits brought with them a large demand for slave labor, driving the Black population to rival that of indigenous populations in many areas across the continent. [^3] On the sugar plantations, Portuguese culture and religion dominated, forcing slaves (both African and indigenous) to assimilate. Although Portuguese ultimately found its place as the lingua franca, it underwent various changes which were likely influenced by the African languages spoken by slaves and the native Tupí language of Brazil. 
+Today, Brazilian Portuguese is recognized as the official language across all of Brazil. This was not always the case. When the Portuguese first landed on the Atlantic coast in the early 1500s, somewhere around modern day São Paulo, they were greeted by one of the nearly 200 indigenous tribes who inhabited the continent at the time. These locals spoke a variety of Tupí, which is but one of the 150 languages that are estimated to exist across Brazil.[^4] Tupí became the general language ( *Língua Geral* ) and was learned by the Portuguese colonizers as well as the African slaves they brought with them. Throughout the course of the next four centuries, Portugal's power in the region increased drastically. The rise of sugar cultivation and the discovery of large gold deposits brought with them a large demand for slave labor, driving the Black population to rival that of indigenous populations in many areas across the continent.[^5] On the sugar plantations, Portuguese culture and religion dominated, forcing slaves (both African and indigenous) to assimilate. Although Portuguese ultimately found its place as the lingua franca, it underwent various changes which were likely influenced by the African languages spoken by slaves and the native Tupí language of Brazil. 
 
 
-[^1]: The state of Paraná’s government website: https://www.ipardes.pr.gov.br/Pagina/Censos-Demograficos
+[^1]: IPARDAS website: https://www.ipardes.pr.gov.br/Pagina/Censos-Demograficos
 
-[^2]: Atlas of Humanity Website: https://www.atlasofhumanity.org/indios]
+[^2]: The Lonely Planet: https://www.lonelyplanet.com/articles/guide-to-curitiba-brazil 
 
-[^3]: The Cambridge Handbook of Language Change: Chapter 15: The Expansion and Evolution of Portuguese
+[^3]: Japanese Diaspora Map: https://brilliantmaps.com/japanese-diaspora/
 
-[^4]: The Lonely Planet: https://www.lonelyplanet.com/articles/guide-to-curitiba-brazil
+[^4]: Atlas of Humanity Website: https://www.atlasofhumanity.org/indios]
 
-[^5]: Japanese Diaspora Map: https://brilliantmaps.com/japanese-diaspora/
+[^5]:  The Cambridge Handbook of Language Change: Chapter 15: The Expansion and Evolution of Portuguese

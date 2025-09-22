@@ -56,10 +56,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.Flex({
       components: [
         {
-          //Component: Component.Search(),
-          //grow: true,
+          Component: Component.Search(),
+          grow: true,
         },
-        { //Component: Component.Darkmode() },
+        { Component: Component.Darkmode() },
       ],
     }),
     Component.Explorer({

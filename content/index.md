@@ -2,10 +2,13 @@
 title: Accent Exploration
 ---
 
-Hello and welcome! This project follows the [Knight-Thompson](https://ktspeechwork.org/experiencing-accents-a-knight-thompson-speechwork-guide-for-acting-in-accent/) Speech-work approach as laid out in the book [Experiencing Accents](https://www.routledge.com/Experiencing-Accents-A-Knight-Thompson-Speechworkr-Guide-for-Acting-in-Accent/Thompson-Seiple-Caban/p/book/9781032324142) with the aim of creating an accent breakdown for actors. This particular research focuses on the people of Paraná, located in Southern Brazil. 
+Hello and welcome! This project follows the [Knight-Thompson](https://ktspeechwork.org/experiencing-accents-a-knight-thompson-speechwork-guide-for-acting-in-accent/) Speech-work approach as laid out in the book [Experiencing Accents](https://www.routledge.com/Experiencing-Accents-A-Knight-Thompson-Speechworkr-Guide-for-Acting-in-Accent/Thompson-Seiple-Caban/p/book/9781032324142) with the aim of creating an accent breakdown for actors. This particular research focuses on the people of Paraná, located in Southern Brazil, though I hope to be able to research more accents and add them in the future. 
+
+What is an accent? Everyone has one, whether they are aware of it or not. At its simplest, an accent is the way you sound when you talk. However, an accent really is not such a simple thing and there are many factors which influence the way a person produces their phones. I like to think of language like a tree where the language one speaks most comfortably (or L1, which is English in my case) forms the roots and the trunk of the tree. The branches may be different dialects of the L1, and the accent is like the leaves sprouting from those branches. In other words, the accent is the flourishes with which you produce your sounds.
+
+Amongst speakers of the same language, accent can help pinpoint a person’s geographical origin or even tell us what groups they might identify with. This can be extended to learners of a second language (L2). As young humans develop and learn their first language, they begin to block out and eventually lose the ability to distinguish between certain sounds that are irrelevant to the language. As such, when learning a second language which may have a different phonemic inventory from their own, it can add difficulty in reproducing the necessary sounds. This is where the idea of ‘foreign accents’ come from. 
+
+For actors, or really anyone studying an accent, is important to take a curious rather than judgmental (thanks Ted Lasso) approach and try to understand the culture of the people whose accent it is that they wish to embody. Anthropologists and Linguists may call this an [emic](https://en.wikipedia.org/wiki/Emic_and_etic) approach. In search of this understanding, we will seek to identify four key components of an accent: people, posture, pronunciation, and prosody. For each accent that we explore, it is useful to identify all four of these factors to help us to convincingly embody the character that we wish to portray and to do so in a respectful way.
 
 
-## Brazilian Portuguese: Paraná
-
-[[People]]
-
+## [[Brazilian Portuguese - Paraná]]

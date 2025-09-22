@@ -1,3 +1,4 @@
+
 ### Bem-vindo ao Paraná (Welcome to Paraná)
 
 On our journey to Paraná, we are joined by Brazilian native, Tatiana (\[tɑt͡ʃɪɑnɑ]). With her help, we will seek to better understand the people, culture, and especially the language of Paraná in order to help us to identify features of the local accent and build a profile that will ultimately assist the actor in recreating the accent in their work. Along the way, we will explore everything from music to food, to festivals and religion, and even immigration and colonization, ultimately painting a picture of how these factors have influenced and shaped the spoken language into what can be heard today. 

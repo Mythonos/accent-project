@@ -1,3 +1,0 @@
----
-title: Brazilian Portuguese - Paraná
----

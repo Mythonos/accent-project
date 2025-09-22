@@ -23,6 +23,6 @@ Today, Brazilian Portuguese is recognized as the official language across all of
 
 [^3]: Japanese Diaspora Map: https://brilliantmaps.com/japanese-diaspora/
 
-[^4]: Atlas of Humanity: https://www.atlasofhumanity.org/indios]
+[^4]: Atlas of Humanity: https://www.atlasofhumanity.org/indios
 
 [^5]:  [The Cambridge Handbook of Language Contact Vol. 1](https://www.cambridge.org/core/books/cambridge-handbook-of-language-contact/7735EB5F3CF8D3C650ADE1829DEEFE9E)

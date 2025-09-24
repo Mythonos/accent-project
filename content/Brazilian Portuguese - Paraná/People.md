@@ -6,12 +6,13 @@ On our journey to Paraná, we are joined by Brazilian native, Tatiana (\[tɑt͡�
 
 Paraná is located in the southern hemisphere, on the South American continent within the country of Brazil. More specifically, it is located in Southern Brazil and shares borders with São Paulo, Santa Catarina, and the countries of Paraguay and Chile. The population as of the 2022 census estimated a total of 11,444,380 people, with more than 10 million people living in an urban setting.[^1] The capital city Curitaba (\[kʊ.ɹɪ.t͡ʃɪ.bɑ], sometimes called Brazil’s ‘green’ city is known for its excellent mass transit and urban planning. Brazil is home to a rich and diverse cultural tapestry, with inhabitants claiming Polish, Italian, Jewish, and Japanese heritage.[^2] In fact, Brazil is home to the largest Japanese population outside of Japan at over two million Japanese descendants.[^3] 
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7434587.21617176!2d-56.61119816783572!3d-24.51421523650701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94db0b9430b8629d%3A0xe893fd5063cef061!2sState%20of%20Paran%C3%A1%2C%20Brazil!5e0!3m2!1sen!2sus!4v1757967078855!5m2!1sen!2sus" width="450" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
 > [!info] Tatiana describing her Ethnicity.
 > ![[Tatiana_Ethnicity.wav]]
 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7434587.21617176!2d-56.61119816783572!3d-24.51421523650701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94db0b9430b8629d%3A0xe893fd5063cef061!2sState%20of%20Paran%C3%A1%2C%20Brazil!5e0!3m2!1sen!2sus!4v1757967078855!5m2!1sen!2sus" width="450" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+Paraná boasts a number of tourist attractions, both natural and manmade. Nestled in the shared borders of Paraná, Paraguay, and Argentina is the world’s second largest waterfall, the Iguazu Falls. Not far from the capital is the Parque Vila Velha which is home to a number of unique sandstone formations and plenty of hiking and biking trails. The Caminho do Vinho (the wine route) allows visitors to experience a number of local vineyards of São José.[^3]
 ### Language and Culture
 
 #### Colonization and Language Change
@@ -19,12 +20,14 @@ Today, Brazilian Portuguese is recognized as the official language across all of
 
 
 
-[^1]: IPARDAS website: https://www.ipardes.pr.gov.br/Pagina/Censos-Demograficos
+[^1]: [IPARDAS website:](https://www.ipardes.pr.gov.br/Pagina/Censos-Demograficos)
 
-[^2]: The Lonely Planet: https://www.lonelyplanet.com/articles/guide-to-curitiba-brazil 
+[^2]: [The Lonely Planet:](https://www.lonelyplanet.com/articles/guide-to-curitiba-brazil)
 
-[^3]: Japanese Diaspora Map: https://brilliantmaps.com/japanese-diaspora/
+[^3]: [The Rio Times:](https://www.riotimesonline.com/brazil-news/rio-travel/brazils-parana-state-a-rich-tapestry-of-nature-culture-and-progress/)
 
-[^4]: Atlas of Humanity: https://www.atlasofhumanity.org/indios
+[^4]: [Japanese Diaspora Map](https://brilliantmaps.com/japanese-diaspora/)
 
-[^5]:  [The Cambridge Handbook of Language Contact Vol. 1](https://www.cambridge.org/core/books/cambridge-handbook-of-language-contact/7735EB5F3CF8D3C650ADE1829DEEFE9E)
+[^5]: [Atlas of Humanity:](https://www.atlasofhumanity.org/indios)
+
+[^6]:  [The Cambridge Handbook of Language Contact Vol. 1](https://www.cambridge.org/core/books/cambridge-handbook-of-language-contact/7735EB5F3CF8D3C650ADE1829DEEFE9E)

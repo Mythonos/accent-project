@@ -18,6 +18,7 @@ Paraná is located in the southern hemisphere, on the South American continent w
 Today, Brazilian Portuguese is recognized as the official language across all of Brazil. This was not always the case. When the Portuguese first landed on the Atlantic coast in the early 1500s, somewhere around modern day São Paulo, they were greeted by one of the nearly 200 indigenous tribes who inhabited the continent at the time. These locals spoke a variety of Tupí, which is but one of the 150 languages that are estimated to exist across Brazil.[^4] Tupí became the general language ( *Língua Geral* ) and was learned by the Portuguese colonizers as well as the African slaves they brought with them. Throughout the course of the next four centuries, Portugal's power in the region increased drastically. The rise of sugar cultivation and the discovery of large gold deposits brought with them a large demand for slave labor, driving the Black population to rival that of indigenous populations in many areas across the continent.[^5] On the sugar plantations, Portuguese culture and religion dominated, forcing slaves (both African and indigenous) to assimilate. Although Portuguese ultimately found its place as the lingua franca, it underwent various changes which were likely influenced by the African languages spoken by slaves and the native Tupí language of Brazil. 
 
 
+
 [^1]: IPARDAS website: https://www.ipardes.pr.gov.br/Pagina/Censos-Demograficos
 
 [^2]: The Lonely Planet: https://www.lonelyplanet.com/articles/guide-to-curitiba-brazil 

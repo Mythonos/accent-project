@@ -4,4 +4,4 @@ draft: false
 tags:
 ---
 ## [[People]]
-Taking on someone’s accent begins here, where we explore the people and their culture. 
+The process of assuming an accent should begin with learning about the people who embody it. Here we will examine the culture and historical context in which Brazilians exist. 

@@ -12,11 +12,11 @@ Paraná is located in the southern hemisphere, on the South American continent w
 > [!info] Tatiana describing her Ethnicity.
 > ![[Tatiana_Ethnicity.wav]]
 
-Paraná boasts a number of tourist attractions, both natural and manmade. Nestled in the shared borders of Paraná, Paraguay, and Argentina is the world’s second largest waterfall, the Iguazu Falls. Not far from the capital is the Parque Vila Velha which is home to a number of unique sandstone formations and plenty of hiking and biking trails. The Caminho do Vinho (the wine route) allows visitors to experience a number of local vineyards of São José.[^3]
+Paraná boasts a number of tourist attractions, both natural and manmade. Nestled in the shared borders of Paraná, Paraguay, and Argentina is the world’s second largest waterfall, the Iguazu Falls. Not far from the capital is the Parque Vila Velha which is home to a number of unique sandstone formations and plenty of hiking and biking trails. The Caminho do Vinho (the wine route) allows visitors to experience a number of local vineyards of São José.[^4]
 ### Language and Culture
 
 #### Colonization and Language Change
-Today, Brazilian Portuguese is recognized as the official language across all of Brazil. This was not always the case. When the Portuguese first landed on the Atlantic coast in the early 1500s, somewhere around modern day São Paulo, they were greeted by one of the nearly 200 indigenous tribes who inhabited the continent at the time. These locals spoke a variety of Tupí, which is but one of the 150 languages that are estimated to exist across Brazil.[^4] Tupí became the general language ( *Língua Geral* ) and was learned by the Portuguese colonizers as well as the African slaves they brought with them. Throughout the course of the next four centuries, Portugal's power in the region increased drastically. The rise of sugar cultivation and the discovery of large gold deposits brought with them a large demand for slave labor, driving the Black population to rival that of indigenous populations in many areas across the continent.[^5] On the sugar plantations, Portuguese culture and religion dominated, forcing slaves (both African and indigenous) to assimilate. Although Portuguese ultimately found its place as the lingua franca, it underwent various changes which were likely influenced by the African languages spoken by slaves and the native Tupí language of Brazil. 
+Today, Brazilian Portuguese is recognized as the official language across all of Brazil. This was not always the case. When the Portuguese first landed on the Atlantic coast in the early 1500s, somewhere around modern day São Paulo, they were greeted by one of the nearly 200 indigenous tribes who inhabited the continent at the time. These locals spoke a variety of Tupí, which is but one of the 150 languages that are estimated to exist across Brazil.[^5] Tupí became the general language ( *Língua Geral* ) and was learned by the Portuguese colonizers as well as the African slaves they brought with them. Throughout the course of the next four centuries, Portugal's power in the region increased drastically. The rise of sugar cultivation and the discovery of large gold deposits brought with them a large demand for slave labor, driving the Black population to rival that of indigenous populations in many areas across the continent.[^6] On the sugar plantations, Portuguese culture and religion dominated, forcing slaves (both African and indigenous) to assimilate. Although Portuguese ultimately found its place as the lingua franca, it underwent various changes which were likely influenced by the African languages spoken by slaves and the native Tupí language of Brazil. 
 
 
 
@@ -24,9 +24,9 @@ Today, Brazilian Portuguese is recognized as the official language across all of
 
 [^2]: [The Lonely Planet:](https://www.lonelyplanet.com/articles/guide-to-curitiba-brazil)
 
-[^3]: [The Rio Times:](https://www.riotimesonline.com/brazil-news/rio-travel/brazils-parana-state-a-rich-tapestry-of-nature-culture-and-progress/)
+[^3]: [Japanese Diaspora Map](https://brilliantmaps.com/japanese-diaspora/)
 
-[^4]: [Japanese Diaspora Map](https://brilliantmaps.com/japanese-diaspora/)
+[^4]: [The Rio Times:](https://www.riotimesonline.com/brazil-news/rio-travel/brazils-parana-state-a-rich-tapestry-of-nature-culture-and-progress/)
 
 [^5]: [Atlas of Humanity:](https://www.atlasofhumanity.org/indios)
 

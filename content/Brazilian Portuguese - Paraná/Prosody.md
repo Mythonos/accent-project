@@ -7,6 +7,9 @@ Linguists have been able to identify numerous prosodic patterns across the world
 >[!info] Prototypical intonation patterns in Brazilian Portuguese
 >![[Screenshot 2025-10-01 at 6.13.41 PM.png]] 
 
+The above image, taken from Spanish and Brazilian Portuguese Pronunciation[^3] depicts some of the common intonation structures in Portuguese and their pragmatic functionality. Fortunately for our analysis, these patterns and functions are also typical in English. 
+
+
 
 [^1]: [What is Prosody? - Mango Languages](https://youtu.be/5DUCCSepMbs?si=fXx46ZXHRe6SBw2z&t=100)
 
@@ -16,4 +19,4 @@ Linguists have been able to identify numerous prosodic patterns across the world
 
 [^2]: [Spanish and Brazilian Portuguese Pronunciation - Antônio Roberto Monteiro Simões](https://link.springer.com/book/10.1007/978-981-13-1996-9)
 
-[^3]: 
+[^3]: [Spanish and Brazilian Portuguese Pronunciation - Antônio Roberto Monteiro Simões](https://link.springer.com/book/10.1007/978-981-13-1996-9)

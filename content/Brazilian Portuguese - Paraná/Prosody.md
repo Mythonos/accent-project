@@ -5,7 +5,7 @@ To oversimplify, prosody is the rhythm of speech. It is measured in the three ke
 Linguists have been able to identify numerous prosodic patterns across the world’s languages. One important thing to note is that, although a pattern may exist in two different languages, its pragmatic functions may differ between them both. Moreover, the same pattern can compress different pragmatic functions even in the same language. 
 
 >[!info] Prototypical intonation patterns in Brazilian Portuguese
->![[Screenshot 2025-10-01 at 6.13.41 PM.png]] 
+>![[../Assets/Screenshot 2025-10-01 at 6.13.41 PM.png]] 
 
 The above image, taken from Spanish and Brazilian Portuguese Pronunciation[^3] depicts some of the common intonation structures in Portuguese and their pragmatic functionality. Fortunately for our analysis, these patterns and functions are also typical in English. 
 

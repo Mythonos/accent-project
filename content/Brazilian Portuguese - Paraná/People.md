@@ -10,12 +10,12 @@ Paraná is located in the southern hemisphere, on the South American continent w
 
 
 > [!info] Tatiana describing her Ethnicity.
-> ![[Tatiana_Ethnicity.wav]]
+> ![[../Assets/Tatiana_Ethnicity.wav|Tatiana_Ethnicity]]
 
 Paraná boasts a number of tourist attractions, both natural and manmade. Nestled in the shared borders of Paraná, Paraguay, and Argentina is the world’s second largest waterfall, the Iguazu Falls. Not far from the capital is the Parque Vila Velha which is home to a number of unique sandstone formations and plenty of hiking and biking trails. The Caminho do Vinho (the wine route) allows visitors to experience a number of local vineyards of São José.[^4]
 
 >[!info] Tatiana making a comparison between Long Island Suburbs and her hometown 
->![[../../Assets/Tatiana_Little_City.wav|Tatiana_Little_City]]
+>![[../Assets/Tatiana_Little_City.wav|Tatiana_Little_City]]
 ### Language and Culture
 
 #### Colonization and Language Change
@@ -25,8 +25,8 @@ Today, Brazilian Portuguese is recognized as the official language across all of
 With colonization came evangelism, and for the pious among the Portuguese, Roman Catholicism was the religion of choice.[^7] An estimated 64% of Brazilians are adherents to Catholicism, though other beliefs (or lack thereof) also exist across the country. According to some sources, which our accent donor corroborates, the number of irreligious people is rising. Currently as many as 15 million people identify as Agnostic or Atheist. For Tatiana’s family, although they celebrate holidays such as Christmas, religion was never a centerpiece of their lives. 
 
 >[!info] Tatiana discussing religion
->![[Tatiana_Religion_One.wav]]
->![[Tatiana_Religion_Two.wav]]
+>![[../Assets/Tatiana_Religion_One.wav]]
+>![[../Assets/Tatiana_Religion_Two.wav]]
 
 
 [^1]: [IPARDAS website:](https://www.ipardes.pr.gov.br/Pagina/Censos-Demograficos) | [CNI](https://perfildaindustria.portaldaindustria.com.br/estado/pr)

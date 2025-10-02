@@ -15,7 +15,7 @@ Paraná is located in the southern hemisphere, on the South American continent w
 Paraná boasts a number of tourist attractions, both natural and manmade. Nestled in the shared borders of Paraná, Paraguay, and Argentina is the world’s second largest waterfall, the Iguazu Falls. Not far from the capital is the Parque Vila Velha which is home to a number of unique sandstone formations and plenty of hiking and biking trails. The Caminho do Vinho (the wine route) allows visitors to experience a number of local vineyards of São José.[^4]
 
 >[!info] Tatiana making a comparison between Long Island Suburbs and her hometown 
->![[Tatiana_Little_City.wav]]
+>![[../../Assets/Tatiana_Little_City.wav|Tatiana_Little_City]]
 ### Language and Culture
 
 #### Colonization and Language Change

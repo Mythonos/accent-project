@@ -35,7 +35,7 @@ Pitch analysis three contains an example of falling intonation indicating finali
 >[!info] Pitch Analysis 3
 >![[../Assets/Religion 2 pitch graph.png]]
 >
-![[../Assets/Tatiana_Religion_Two 1.wav]]
+>![[../Assets/Tatiana_Religion_Two 1.wav]]
 >”I would say that when I was growing up, \[I, it, it], it’s getting lost generation to generation.”
 
 

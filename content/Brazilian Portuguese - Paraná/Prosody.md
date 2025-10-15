@@ -38,7 +38,9 @@ Pitch analysis three contains an example of falling intonation indicating finali
 >![[../Assets/Tatiana_Religion_Two 1.wav]]
 >”I would say that when I was growing up, \[I, it, it], it’s getting lost generation to generation.”
 
+Tatiana does not pause a lot, though occasionally she will, in which case you may hear her use the thinking sound \[uh]. Despite a lack of pauses, her speech sometimes has a choppy feel to it as she moves from thought to thought, clarifying or qualifying her statements. 
 
+As with pitch, there is also an alternation in the overall speed of Tatiana’s utterances. In general, she has a moderate pace, but there are times when you can hear vowels being slightly extended (“so my \[mɐːm]).
 
 [^1]: [What is Prosody? - Mango Languages](https://youtu.be/5DUCCSepMbs?si=fXx46ZXHRe6SBw2z&t=100)
 

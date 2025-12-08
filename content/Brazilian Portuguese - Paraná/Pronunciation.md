@@ -56,9 +56,9 @@ In General American, the strut vowel is more centralized. Contrast that with Tat
 ![[../Assets/strut vowel.wav]]
 “So I grew *up* in a li, in a little town, in a little city or a town at the coast of Brazil.”
 
-#### FLEECE \[iː]
+#### FLEECE \[i]
 
-For speakers of Brazilian Portuguese, the long e sound \[iː] is shifted back and down somewhat, sounding closer to \[ɪ], the still close and high, but somewhat more back and slightly lowered vowel, similar to that of the KIT vowel.
+For speakers of Brazilian Portuguese, the long e sound \[iː] appears to lose the length resulting in simply a +high, +front vowel \[i]. There are times in our accent donor's speech where the vowel seems to maintain the length generally found in the American English FLEECE vowel.
 
 ![[../Assets/Fleece Vowel.wav]]
 “So, uh, I was *reading*, we had the option of *reading* in English, *reading* in French, um or *reading* in Italian so I was always *reading* in Italian, or even French is easier to *read* for a for a Portuguese speaker, for an Italian speaker, because we kinda have from the same root,  but uh so English I was like ahh forget about it.”

@@ -3,6 +3,7 @@ The oral posture of a speaker of Brazilian Portuguese is marked by some of the f
 - Raised jaw
 - A very active tongue tip and blade
 - Lip retraction
+- Lip corner protrusion
 
 
 For Tatiana, the her thinking sound is closer to the neutral English vowel known as the schwa, as heard in the following clips.

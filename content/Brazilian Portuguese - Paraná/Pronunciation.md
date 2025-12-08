@@ -48,13 +48,13 @@ The GOAT vowel for General American speakers is usually considered to be a dipth
 For Tatiana, the words ‘knowledge’ and ‘all’ fall into the palm lexical set; they are pronounced with an elongated, low, back, unrounded vowel. 
 
 ![[../Assets/Palm Vowel.wav]]
-
+“I can translate my *knowledge* now, right? Because everything I learned was in Portuguese. *All* my work, my profession was in Portuguese.”
 #### STRUT \[ʌ]
 
 In General American, the strut vowel is more centralized. Contrast that with Tatiana, who pronounces it somewhat lower and more back:
 
 ![[../Assets/strut vowel.wav]]
-
+“So I grew *up* in a li, in a little town, in a little city or a town at the coast of Brazil.”
 
 ## Extras
 

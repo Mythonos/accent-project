@@ -36,7 +36,7 @@ Although it is inconsistent, there is some tendency to aspirate word initial P.
 
 In general, there seems to be a tendency to lengthen vowels, especially for emphatic purposes. 
 
-#### GOAT \[ɔ]
+#### GOAT \[ɔ̞]
 
 The GOAT vowel for General American speakers is usually considered to be a dipthong moving from the close-mid, back vowel \[ɣ] to a somewhat higher and more forward \[ʊ]. For Tatiana, it seems to more likely to be a monopthong, a rounded, mid, back vowel \[ɔ].
 
@@ -75,7 +75,7 @@ Secondary articulations are the result of combining two or three simpler consona
 
 ![[../Assets/t to ch.wav]]
 
-#### R to H
+#### R to H 
 
 Initial R sounds may be sounded as an H as in the following examples. 
 

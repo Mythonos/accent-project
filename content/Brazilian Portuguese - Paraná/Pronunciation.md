@@ -7,16 +7,16 @@ There is a tendency for the voiceless dental fricative /θ/ to realized as a voi
 ![[../Assets/Tatiana Palm Vowel.wav]]
 “I can translate my knowledge now, right, because *every**f**ing* I learned, was in Portuguese. All my work, my profession, was in Portuguese.”
 
-#### /ð/  → /d/ 
+#### /ð/  → \[d] 
 
 Voiced dental fricatives at the start of a word tend to become voiced alveolar plosives. 
 
 ![[../Assets/th to d.wav]]
 “My accent, it’s like not **d***at* heavy.”
-#### /ð/ → /ɾ/
+#### /ð/ → \[ɾ]
 
 When found in the middle of a word, the voiced dental fricative may be realized as as an alveolar tap. 
-#### /l/ → /u/
+#### /l/ → \[u]
 
 The lateral approximant \[l] when found at the end of a word is usually not fully realized, resulting in something closer to an \[u]. 
 
@@ -36,7 +36,7 @@ Although it is inconsistent, there is some tendency to aspirate word initial P.
 
 In general, there seems to be a tendency to lengthen vowels, especially for emphatic purposes. 
 
-#### GOAT \[ɔ̞]
+#### GOAT \[ ɔ̞ ]
 
 The GOAT vowel for General American speakers is usually considered to be a dipthong moving from the close-mid, back vowel \[ɣ] to a somewhat higher and more forward \[ʊ]. For Tatiana, it seems to more likely to be a monopthong, a rounded, mid, back vowel \[ɔ].
 
@@ -62,6 +62,16 @@ For speakers of Brazilian Portuguese, the long e sound \[iː] appears to lose th
 
 ![[../Assets/Fleece Vowel.wav]]
 “So, uh, I was *reading*, we had the option of *reading* in English, *reading* in French, um or *reading* in Italian so I was always *reading* in Italian, or even French is easier to *read* for a for a Portuguese speaker, for an Italian speaker, because we kinda have from the same root,  but uh so English I was like ahh forget about it.”
+
+#### GOOSE \[ u̞ ]
+
+Words in the GOOSE lexical set have a somewhat lowered version of the close, rounded, and back vowel, \[u]. 
+
+![[../Assets/goose vowel 2.wav]]
+“And she likes cooking.” … “just *doing* because she had *to*.”
+
+![[../Assets/goose vowel.wav]]
+“And *new* years is right there, the next week, so people get vacation in this, in between this.”
 ## Extras
 
 #### Secondary Articulations \[d͡ʒ] and \[t͡ʃ]

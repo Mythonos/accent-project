@@ -48,14 +48,14 @@ There is a tendency for the voiceless dental fricative /θ/ to realized as a voi
 >[!examples]- 
 > *every__th__ing*, *no__th__ing* , *some__th__ing*
 
-#### /ð/ → /d/ (Voiced Dental Fricative → Voiced Alveolar Plosive)
+#### /ð/ → \[d] (Voiced Dental Fricative → Voiced Alveolar Plosive)
 
 Voiced dental fricatives at the start of a word tend to become voiced alveolar plosives.
 
 >[!examples]- 
 > *__th__at*,  *__th__ough*, *__th__ese*, *__th__em* 
 
-#### /l/ → /u/ (The false lateral approximant)
+#### /l/ → \[u] (The false lateral approximant)
 
 When an l sound terminates a word, it is not completed and instead the +high, +back, +round vowel \[u] is produced. 
 
@@ -71,9 +71,9 @@ Although it is inconsistent, there is a tendency to aspirate word initial P.
 
 ### Vowels
 
-#### GOAT \[ɔ]
+#### GOAT \[ ɔ̞ ]
 
-The GOAT vowel for General American speakers is usually considered to be a dipthong moving from the close-mid, back vowel [ɣ] to a somewhat higher and more forward \[ʊ]. For Tatiana, it seems to more likely to be a monopthong, a rounded, mid, back vowel \[ɔ].
+The GOAT vowel for General American speakers is usually considered to be a dipthong moving from the close-mid, back vowel [ɣ] to a somewhat higher and more forward \[ʊ]. For Tatiana, it seems to more likely to be a monopthong, a slightly lowered, rounded, mid, back vowel \[ɔ].
 
 >[!examples]-
 >*know*, *go*, *so*, *growing*, *don't*
@@ -99,3 +99,9 @@ For speakers of Brazilian Portuguese, the long e sound \[iː] appears to lose th
 >[!examples]-
 >*read*, *speak*, *keep*, sleep,
 
+#### GOOSE \[ u̞ ]
+
+Words in the GOOSE lexical set have a somewhat lowered version of the close, rounded, and back vowel, \[u]. 
+
+>[!examples]-
+>*to*, *do*, *you*, *new*
